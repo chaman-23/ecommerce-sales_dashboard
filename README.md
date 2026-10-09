@@ -29,16 +29,16 @@ This project focuses on creating a professional and interactive **Sales Dashboar
 ---
 
 ## 📁 Folder Structure
-📦 ecommerce-sales-dashboard
-┣ 📂 data
-┃ ┣ 📄 raw_sales_data.xlsx
-┃ ┣ 📄 cleaned_sales_data.xlsx
-┣ 📂 visuals
-┃ ┣ 📷 dashboard_screenshot_1.png
-┃ ┣ 📷 dashboard_screenshot_2.png
-┣ 📄 dashboard.pbix
-┣ 📄 README.md
-
+```
+ecommerce-sales_dashboard
+├── data
+│   ├── raw_sales_data.xlsx
+│   └── cleaned_sales_data.xlsx
+├── visuals
+│   └── E-Commerce Sales Dashboard.pbix
+├── LICENSE
+└── README.md
+```
 
 ---
 
@@ -60,8 +60,8 @@ This project demonstrates the use of **Power BI** and **Excel** to:
 ## 👨‍💻 Author
 **Chaman Kumar Singh**  
 📧 rudra23032004@gmail.com  
-📍 Vadodara, Gujarat  
-🔗 [LinkedIn](https://www.linkedin.com/in/chamankumarsingh)
+📍 New Delhi, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/chaman-singh-5a67aa2b6)
 
 ---
 
